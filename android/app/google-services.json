@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849480023137",
+    "firebase_url": "https://flutter-firestore-ef751.firebaseio.com",
+    "project_id": "flutter-firestore-ef751",
+    "storage_bucket": "flutter-firestore-ef751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849480023137:android:d5ee289beb240e6e",
+        "android_client_info": {
+          "package_name": "com.ysn.flutterfirestorevoting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849480023137-p8a3ah9vp4vakk5gt71fmj9uvnl3blv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJf8Isr9BcISVYV_QBwC2enx0Z7TI3deE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
